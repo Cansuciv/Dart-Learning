@@ -22,4 +22,5 @@ void main(List<String> args) {
 
   mesaj = ad ?? soyad;
   print("Merhaba $mesaj");
+  print("hsdgfdskg");
 }
