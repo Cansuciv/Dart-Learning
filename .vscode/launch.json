@@ -8,7 +8,8 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "bolum1/odev.dart"
+            "program": "${file}", //o an açık olan dosya otomatik çalışır
+            "console": "terminal",
         }
     ]
 }
